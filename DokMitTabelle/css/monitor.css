@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: large;
+    background: lightblue;
+    text-align: center;
+    margin-top: auto;
+}
+
+table {
+    margin: auto;
+    padding-inline: inherit;
+}
+
+a:link {
+    color: royalblue;
+    text-decoration: aliceblue;
+    cursor: auto;
+    font-weight: bold;
+}
+
+a:visited {
+    color: violet;
+}
+
+a:focus {
+    color: forestgreen;
+}
+
+
+
+
+
+
+
+
+

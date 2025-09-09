@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: lightblue;
+
+
+
+}
+
+p {
+    font-size: xx-large;
+}
+
+td {
+    text-align: left;
+    padding-inline: 5px;
+}
