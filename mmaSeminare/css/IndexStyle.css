@@ -1,16 +1,28 @@
 body {
+    color: aliceblue;
     text-align: center;
     background: lightblue;
+
 
 
 
 }
 
 p {
-    font-size: xx-large;
+    text-shadow: 5px 5px 5px black;
+    color: white;
+    font-size: 4em;
 }
 
 td {
+    margin: auto;
+    border: solid;
+    font-size: 2em;
     text-align: left;
     padding-inline: 5px;
+    text-shadow: 5px 5px 5px black;
+}
+
+h1{
+    font-size: xxx-large;
 }
