@@ -2,10 +2,6 @@ body {
     color: aliceblue;
     text-align: center;
     background: lightblue;
-
-
-
-
 }
 
 p {
@@ -14,11 +10,11 @@ p {
     font-size: 4em;
 }
 
-td {
+table {
     margin: auto;
     border: solid;
     font-size: 2em;
-    text-align: left;
+    text-align: center;
     padding-inline: 5px;
     text-shadow: 5px 5px 5px black;
 }
